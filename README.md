@@ -9,6 +9,8 @@ A complete **end-to-end Data Science project** that predicts product demand usin
 This project focuses on building a **robust demand forecasting system** to help businesses optimize inventory and sales strategies.  
 It leverages real-world features such as pricing, competition, seasonality, weather conditions, and promotions to improve prediction accuracy.
 
+Working demo - https://demand-forecasting-5zhe.onrender.com
+
 ---
 
 ## 🧠 Key Features
